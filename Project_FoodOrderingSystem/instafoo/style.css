@@ -1,0 +1,8 @@
+.header{background-color: #fff;height: 60px;margin: 0;text-align: center;}
+.header h3{padding-top: 20px;margin: 0;}
+.content{background: url("images/bg.jpg");background-repeat: repeat-x;min-height: 500px;}
+.instaorder{width: 360px;background-color: #000;margin: auto;text-align: center;
+	color: #fff;padding: 20px;border: 1px solid #fff;border: 1px solid #000;}
+.tables tr td{width: 200px;font-size: 20px;color: #000;}
+.admincontent{background-color: #554;}
+.adminpanel{max-width: 600px;background-color: #000;margin: auto;color: #fff;padding: 20px;}
